@@ -1,0 +1,62 @@
+[
+ {
+  "firstname": "John",
+  "lastname": "Doe",
+  "address": {
+   "homeaddress": "120 jefferson st.",
+   "city": "Riverside",
+   "state": " NJ",
+   "postalcode": " 08075"
+  }
+ },
+ {
+  "firstname": "Jack",
+  "lastname": "McGinnis",
+  "address": {
+   "homeaddress": "220 hobo Av.",
+   "city": "Phila",
+   "state": " PA",
+   "postalcode": "09119"
+  }
+ },
+ {
+  "firstname": "John \"Da Man\"",
+  "lastname": "Repici",
+  "address": {
+   "homeaddress": "120 Jefferson St.",
+   "city": "Riverside",
+   "state": " NJ",
+   "postalcode": "08075"
+  }
+ },
+ {
+  "firstname": "Stephen",
+  "lastname": "Tyler",
+  "address": {
+   "homeaddress": "7452 Terrace \"At the Plaza\" road",
+   "city": "SomeTown",
+   "state": "SD",
+   "postalcode": " 91234"
+  }
+ },
+ {
+  "firstname": "",
+  "lastname": "Blankman",
+  "address": {
+   "homeaddress": "",
+   "city": "SomeTown",
+   "state": " SD",
+   "postalcode": " 00298"
+  }
+ },
+ {
+  "firstname": "Joan \"the bone\", Anne",
+  "lastname": "Jet",
+  "address": {
+   "homeaddress": "9th, at Terrace plc",
+   "city": "Desert City",
+   "state": "CO",
+   "postalcode": "00123"
+  }
+ }
+]
